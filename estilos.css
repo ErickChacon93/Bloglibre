@@ -1,0 +1,44 @@
+
+#experiencia{
+    font-size: large;
+    text-align: center;
+}
+.destacado{
+    color: rgb(83, 83, 178);
+    
+}
+strong{
+     font-weight: normal;
+}
+
+body{
+    background-color: black;
+    color: rgb(0, 0, 0);
+    background-image: url(https://images.wallpapersden.com/image/download/world-of-warcraft-the-lich-king-4k_bWdubGaUmZqaraWkpJRobWllrWZubGg.jpg);
+    font-style: italic;
+    
+}
+.bg-body-secondary{
+    background-color: rgba(255, 255, 255, 0.5) !important;
+}
+.margenes{
+    margin-left: 15%;
+    margin-right: 15%;
+}
+.pixel {
+  font-family: "Jersey 10", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+  color: aqua;
+}
+
+.titulos{
+    color: rgb(0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.subtitulos{
+        font-weight: bold;
+        color: rgb(0, 0, 0);
+}
+
